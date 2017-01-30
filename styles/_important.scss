@@ -1,0 +1,10 @@
+@import 'colors';
+
+.important {
+  h1 {
+    color: blue;
+  }
+  p {
+    color: $secondarycolor;
+  }
+}
