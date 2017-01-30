@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/joellegg/mod-js-tools#readme",
   "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0",
     "node-sass": "^4.4.0"
   }
 }
